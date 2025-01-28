@@ -1,4 +1,4 @@
-# Turorial INIminer Mainnet
+# Tutorial INIminer Mainnet
 
 ## Persiapan
 - Os Linux ubuntu versi 24.0.0 lts
