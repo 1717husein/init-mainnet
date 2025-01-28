@@ -13,7 +13,7 @@
 Copy code berikut ini.
 ```bash
 git clone https://github.com/1717husein/init-mainnet.git
-cd iniminer-mainnet
+cd init-mainnet
 chmod +x download.sh run.sh
 ```
 
