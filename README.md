@@ -12,7 +12,7 @@
 ### 1. Pertama Copy Script berikut ini untuk clone dan Download INIminer
 Copy code berikut ini.
 ```bash
-git clone https://github.com/1717husein/iniminer-mainnet.git
+git clone https://github.com/1717husein/init-mainnet.git
 cd iniminer-mainnet
 chmod +x download.sh run.sh
 ```
