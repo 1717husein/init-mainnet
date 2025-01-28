@@ -31,7 +31,7 @@ Untuk menjalankan iniminer ketik `download.sh` Perintah ini untuk memberikan aks
 
 ### 3. Jalankan Mining
 
-Ganti alamat Miner dengan alamat wallet kamu, ketik perintah berikut ini
+Ganti alamat Miner (0x..) dengan alamat wallet kamu,dan ganti worker001 sengan nama kalian. ketik perintah berikut ini
 ```bash
 nano run.sh
 ```
@@ -61,3 +61,7 @@ Kembali ke screen dan jalankan ulang
 screen -r iniminer
 ./run.sh
 ```
+
+### Cek status node kamu di websaite INIminer
+
+https://a.yatespool.com/ Paste alamat wallet Kalian.
